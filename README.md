@@ -1,6 +1,32 @@
 # Zoom Session
 
-Let's practice our layout skills by creating the page shown in the reference images below -
+**[have a look](https://holledrums.github.io/create_zoomcall/)**
+
+---
+
+#### Navigation
+
+- About Project
+  - _Description_
+  - _Developed With_
+- How to use this Project
+  - _Description_
+  - _Developed With_
+- Contact
+  - _Mail_
+  - _GitHub_
+  - _LinkedIn_
+- Used Tools
+  - _Fonts_
+  - _Design_
+  - _Icons_
+  - _Colors_
+
+---
+
+### About Project
+
+practice layout skills by creating the page shown in the reference images below -
 
 #### Desktop
 
@@ -10,12 +36,41 @@ Let's practice our layout skills by creating the page shown in the reference ima
 
 ![mobile](/assets/mobile.png)
 
-##### Take a few moments to look at the live version [here](https://digitalcareerinstitute.github.io/UIB-layout-zoom-session/)
+### How to use this Project
 
-### Instructions
+give impressions of flex & grid
 
-> - You will need to use Flexbox, CSS Grid and the `position` property
-> - The images are included in the `assets` directory
-> - The icons are from **Font Awesome**
-> - The top and bottom sections of the page should be `fixed` in their respective locations to allow all nine image thumbnails to scroll
-> - The page uses the _Gill Sans_ font
+##### Developed With
+
+- [x] _HTML5_
+- [x] _CSS3_
+- [ ] _SASS_
+- [ ] _SCSS_
+- [ ] _JavaScript_
+- [ ] _React_
+- [ ] _Bootstrap_
+- [x] _npm_
+- [ ] _..._
+
+---
+
+### Contact
+
+Mail: <holgeraliusklose@gmail.com><br>
+GitHub: [Holledrums](https://github.com/holledrums)<br>
+LinkedIn: [Holger Klose](https://www.linkedin.com/in/holger-klose-240831147/)
+
+---
+
+### Used Tools
+
+- [icons](https://)
+- [Canva](https://www.canva.com/)
+- [npm](https://www.npmjs.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [ColorZilla](https://www.colorzilla.com/chrome/)
+
+---
+
+Made with ❤️ by me
